@@ -1,3 +1,11 @@
+# RoadMCP
+
+> Road Fleet: RoadMCP — MCP server collection — sovereign AI tools. PROPRIETARY BlackRoad OS integration.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 # Awesome MCP Servers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
